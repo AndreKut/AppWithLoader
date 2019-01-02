@@ -1,0 +1,11 @@
+framework module DownloadingService {
+  umbrella header "DownloadingService.h"
+
+  export *
+  module * { export * }
+}
+
+module DownloadingService.Swift {
+    header "DownloadingService-Swift.h"
+    requires objc
+}

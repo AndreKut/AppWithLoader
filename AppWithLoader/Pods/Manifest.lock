@@ -1,0 +1,20 @@
+PODS:
+  - Bolts-Swift (1.4.0)
+  - ObjectMapper (3.4.1)
+
+DEPENDENCIES:
+  - Bolts-Swift
+  - ObjectMapper
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Bolts-Swift
+    - ObjectMapper
+
+SPEC CHECKSUMS:
+  Bolts-Swift: 650d72e8017721b1a6bbe43d542c4578f8e5ba6f
+  ObjectMapper: 5311bd50ca732930959e7ca1a2de43ab823a5ced
+
+PODFILE CHECKSUM: fa489a5d1e290022cf4c25af00a7f0dcb38d22b0
+
+COCOAPODS: 1.5.3
